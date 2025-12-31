@@ -111,7 +111,7 @@ L’objectif à long terme est d’optimiser l’accessibilité des personnes en
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/AlexaNgder.png?size=32" alt="Alex Nguyen" style="width:40px; height:40px; border-radius:4px;" />
+        <img src="https://github.com/Alex-Nguyen39.png?size=32" alt="Alex Nguyen" style="width:40px; height:40px; border-radius:4px;" />
       </td>
       <td><strong>Alex Nguyen</strong></td>
       <td>Full-stack (PHP Canvas, mailing, déploiement)</td>
